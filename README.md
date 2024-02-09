@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MuaajSombare
 - 👀 I’m interested in full stack development java
 - 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail - sombaremuaaj6@gmail.com
 -                     mobile - 7559159482
 
